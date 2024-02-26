@@ -1,0 +1,63 @@
+members: 
+  - cboettig:
+    name:
+      first: "Carl" 
+      last: "Boettiger"
+    title: "Assistant Professor"
+    homepage: "http://www.carlboettiger.info"
+    github: "cboettig"
+    mastodon: "https://ecoevo.social/@cboettig"
+    orcid: "0000-0002-1642-628X"
+    googlescholar: "https://scholar.google.com/citations?hl=en&user=zj2rRtEAAAAJ"
+    email: "cboettig@berkeley.edu"
+    photo: "carl.png"
+    keybase: "https://keybase.io/cboettig"
+  - daniela:
+    name: 
+      first: "Daniela"
+      last: "Rodriguez-Chavez"
+    title: "Graduate Student"
+    homepage: "#"
+    photo: "daniela.jpg"
+  - marcus:
+    name:
+      first: "Marcus" 
+      last: "Lapeyrolerie"
+    title: "Graduate Student"
+    homepage: "#"
+    github: "mlap"
+    orcid: "0000-0003-2588-7843"
+    email: "marcuslapeyrolerie@me.com"
+    photo: "marcus.jpg"
+  - abby:
+    name:
+      first: "Abby"
+      last: "Keller"
+    title: "Graduate Student"
+    photo: "abby.jpg"
+    twitter: "abby__keller"
+    orcid: "0000-0001-6068-0173"
+  - felipe:
+    name:
+      first: "Felipe"
+      last: "Montealegre-Mora"
+    title: "Postdoctoral Scholar"
+    photo: "felipe2.jpg"
+    homepage: "https://felipethescientist.com" 
+    github: "https://github.com/felimomo"
+    googlescholar: "Montealegre-Mora"
+    linkedin: "https://www.linkedin.com/in/felimomo/"
+  - you:
+    name:
+      first: "Your"
+      last: "Name Here?"
+    title: "Open Position"
+    homepage: "#"
+    github: "#"
+    twitter: "#"
+    orcid: "#" 
+    email: "you@example.com"
+    cv: "http://example.com/cv.html" 
+    photo: "you.png"
+
+
